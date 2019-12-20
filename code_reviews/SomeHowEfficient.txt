@@ -1,0 +1,2076 @@
+"Patch Set 1:
+
+(3 comments)"
+"Patch Set 1:
+
+(1 comment)"
+"Patch Set 1: Code-Review-1
+
+(1 comment)"
+"Patch Set 2:
+
+(1 comment)"
+Now fixed it.
+"Abandoned
+
+Test CL abandoned"
+"Abandoned
+
+TEST CL"
+"Restored
+
+for PB testing"
+"Patch Set 3:
+
+(1 comment)"
+"Patch Set 1:
+
+Proof Build Failed because, build.sh file is using Release configuration. But Release configuration is now changed. 
+And Certificate and profiles for new configuration is not present is server machine"
+"Abandoned
+
+wrong commit"
+"Restored
+
+Restored For Proof Build Check"
+"Patch Set 1: Code-Review+1
+
+Seems good"
+"Patch Set 1: Code-Review+2
+
+Change in PI folder"
+"Patch Set 1: Verified+1 Code-Review+2
+
+(1 comment)"
+"Abandoned
+
+confused due to similiar issues"
+"Patch Set 1: Code-Review-1
+
+Please be sure that you are not in the same thread before calling dispatch_sync"
+Doesn't it produce build error?
+"Patch Set 1: Code-Review-2
+
+(6 comments)"
+"Patch Set 2: Verified+1
+
+(5 comments)"
+"Patch Set 2:
+
+(4 comments)"
+"Patch Set 2: Code-Review-1
+
+(1 comment)"
+"Patch Set 3: Verified+1
+
+(5 comments)"
+"Patch Set 4: Code-Review+1
+
+(1 comment)"
+"Patch Set 4: Code-Review-1
+
+(1 comment)"
+"Patch Set 5: Verified+1
+
+(1 comment)"
+"Patch Set 5: Code-Review-1
+
+(1 comment)"
+"Patch Set 6: Verified+1
+
+(1 comment)"
+"Patch Set 6: Code-Review-1
+
+(1 comment)"
+"Patch Set 7: Verified+1
+
+(1 comment)"
+Please follow comment format
+What is this?
+"Patch Set 1: Code-Review-1
+
+(4 comments)
+
+There are some minor grammatical mistakes, otherwise the code is okay. Please check."
+"Patch Set 2: Code-Review-1
+
+(5 comments)"
+"Patch Set 3: Verified+1
+
+(1 comment)"
+"Patch Set 3: Code-Review-1
+
+(12 comments)
+
+Incomplete."
+"Patch Set 3: Code-Review-2
+
+(6 comments)
+
+Please make necessary changes."
+"Patch Set 5: Verified+1
+
+(19 comments)"
+"Patch Set 5:
+
+(19 comments)"
+"Patch Set 6: Verified+1
+
+(19 comments)"
+"Patch Set 6: Code-Review-1
+
+(7 comments)
+
+Please check the comments, this looks fine to me except some minor grammatical mistakes."
+"Patch Set 6: Code-Review-1
+
+(5 comments)"
+"Patch Set 6:
+
+(6 comments)"
+"Patch Set 7: Verified+1
+
+(17 comments)"
+Thanks for your suggestion. If we want to use to group all constants. We can use structure. In that case,
+Thanks. I moved those to the implementation file.
+Thanks. It has no impact. removed now.
+Please update
+Thanks. changed and a new task created for removing dependencies.
+Please remove this
+Please update this value.
+Please remove empty lines.
+"Abandoned
+
+pb test"
+"Restored
+
+TEST"
+"Abandoned
+
+test"
+"Abandoned
+
+Test CL; can be restored for test Purpose"
+"Patch Set 1: Code-Review-1
+
+(5 comments)
+
+There were some small grammatical mistakes. Otherwise, the code looks okay to me. Please check."
+"Patch Set 1: Code-Review-2
+
+(2 comments)
+
+Please check relevant comments and discuss with others if necessary."
+"Patch Set 1: Code-Review-2
+
+(1 comment)"
+"Patch Set 1: Code-Review-2
+
+(7 comments)"
+"Patch Set 1:
+
+(15 comments)"
+"Patch Set 2:
+
+(9 comments)"
+"Patch Set 3: Verified+1
+
+(9 comments)"
+"Patch Set 3: Code-Review+2
+
+Thanks for the effort."
+Thanks. Problem statement changed.
+YES. I checked. It works properly. There is no need to import in swift.
+Please remove.
+Please check previous comment.
+"Patch Set 2: Verified+1 Code-Review+2
+
+Thanks Hyogil, I removed OomPriorityh/cpp."
+"Patch Set 4:
+
+(13 comments)"
+"Patch Set 5:
+
+(13 comments)"
+I'm curious, why add final here?
+Sure sounds good.
+"Restored
+
+Don't need to abandon"
+"Abandoned
+
+This Ankit's change is not working as advertised."
+"Patch Set 4:
+
+(3 comments)"
+"Patch Set 4:
+
+(1 comment)"
+"Patch Set 4: Verified+1 Code-Review+2
+
+(1 comment)"
+"Patch Set 5:
+
+(2 comments)"
+Yes, I agree.
+"Patch Set 1:
+
+Didi you update wiki page with new events?"
+"Patch Set 1: Code-Review-1
+
+(2 comments)"
+"Patch Set 3:
+
+(2 comments)"
+"Patch Set 5:
+
+(1 comment)"
+"Patch Set 7:
+
+(1 comment)"
+"Patch Set 7: Verified+1 Code-Review+2
+
+(1 comment)"
+"Patch Set 1: Code-Review+2
+
+(1 comment)"
+"Patch Set 2:
+
+Thank you for finding and fixing this Saumitra!"
+"Patch Set 2: Code-Review-1
+
+Please fix the indentation"
+"Patch Set 5: Verified+1 Code-Review+2
+
+Looks great and I also see that UX .pdf got updated"
+"Patch Set 1:
+
+(9 comments)"
+Any reason to not use range-based-for here?
+Is there a reason not to use DiagnosticsViewControllerPtr in this list?
+I can move this to one line
+"Patch Set 1:
+
+(6 comments)"
+"Patch Set 1:
+
+(2 comments)"
+Spaces
+"Patch Set 1:
+
+(7 comments)"
+Do you need this #define? Does it need to be a #define?
+Why have this return?
+Spaces instead of Tabs in this file
+"Patch Set 3:
+
+(9 comments)"
+"Patch Set 9:
+
+(1 comment)"
+"Patch Set 11: Verified+1 Code-Review+2
+
+(1 comment)"
+Looks like Tab is needed here
+This needs Tab
+MAybe use DMSG_INFO here?
+This is probably an error
+This class has mostly Spaces instead of Tabs
+"Patch Set 1: Verified+1 Code-Review+2
+
+(2 comments)"
+Good comment!
+"Patch Set 1:
+
+(5 comments)"
+"Patch Set 6: Verified+1
+
+(4 comments)"
+"Patch Set 6: Code-Review-1
+
+(2 comments)
+
+Looking good, just a little more consistency."
+"Patch Set 7: Verified+1
+
+(3 comments)"
+"Patch Set 7:
+
+(2 comments)"
+"Patch Set 9: Verified+1
+
+(2 comments)"
+"Patch Set 13:
+
+(1 comment)"
+"Patch Set 13: Code-Review-1
+
+(2 comments)"
+"Patch Set 14: Verified+1
+
+(2 comments)"
+Please use Camel notation here also
+Wrong header
+"Abandoned
+
+We need to fix HasNetworkConnection() to work with BT instead"
+"Patch Set 1: Code-Review+1
+
+Update all .po files with proper strings in next CL."
+"Patch Set 4: -Code-Review
+
+I see this change is Verified -1. Forhad, was it verified?"
+Ditto
+"Patch Set 1: Verified+1
+
+(1 comment)"
+"Patch Set 4:
+
+I have updated my changes."
+"Patch Set 4:
+
+I will merge this after 1/1/2019"
+Working on it.
+Remove one line break from here
+"Patch Set 2: Verified+1
+
+> (1 comment)
+
+Moved it to RenderTargetHrRange() method."
+"Patch Set 1:
+
+Jordan reviewed this over my shoulder"
+"Abandoned
+
+I am going to abandon this commit preventing it from getting merged into the main branch. Just wanted an online repo for this work so I pushed a commit."
+"Patch Set 1: Verified-1 Code-Review-1
+
+(1 comment)"
+"Patch Set 1:
+
+(2 comments)
+
+This commit was merged without confirming that the comments were addressed."
+"Patch Set 2:
+
+(2 comments)"
+Exrta space before :
+else goes on the same line as }
+You are looking at the outdated patchset
+Cool sounds good
+Yes that sounds great!
+"Patch Set 1:
+
+(13 comments)"
+"Patch Set 3: Code-Review+1
+
+Looks good. Let's sit together to see how to test this to make sure it works."
+"Patch Set 4: Verified-1 Code-Review-1
+
+(5 comments)"
+"Patch Set 4:
+
+(2 comments)"
+"Patch Set 8: Verified-1 Code-Review-1
+
+(1 comment)"
+Extra new line
+We use { on the same line for if and for
+Are you missing columns here?
+Space missing before mMinSenderTimestamp
+"Patch Set 2: Verified-1 Code-Review-1
+
+(1 comment)"
+*know
+"Abandoned
+
+Found the reason for this crash, so this is not needed"
+This is great!
+Great refactor!
+Great!
+Nitpick: Extra space before 0
+"Abandoned
+
+Abandoning this due to commit hooks issue."
+"Abandoned
+
+Since this code is going to be used in 3 places, this fix needs a more robust implementation."
+"Patch Set 3: Verified-1 Code-Review-1
+
+(5 comments)"
+Missing indent here?
+"Patch Set 1:
+
+I like it looks good!"
+"Abandoned
+
+Not needed anymore"
+"Patch Set 2: Code-Review+2
+
+(2 comments)"
+Personal preference.
+This looks amazing
+"Patch Set 1:
+
+(8 comments)"
+4 spaces
+{ needs to be on a new line
+Extra space at the beginning
+"Patch Set 1: Code-Review-1
+
+(9 comments)"
+Most lines have spaces
+"Patch Set 1: Code-Review+2
+
+(3 comments)"
+Sure I can change this.
+"Abandoned
+
+PB test successful"
+"Patch Set 2:
+
+Can this old CR be abandoned if you don't need it anymore?"
+"Abandoned
+
+This is no longer needed"
+"Abandoned
+
+PB config updated"
+"Abandoned
+
+pb updated"
+"Patch Set 1:
+
+(10 comments)"
+Two empty lines
+Sure good point
+mCreatedTime for consistency?
+"Patch Set 3: Code-Review+2
+
+(1 comment)"
+"Patch Set 4: Verified+1
+
+(2 comments)"
+"Patch Set 5: Verified+1
+
+(2 comments)"
+[Code Convention] Please follow specific convention for if statements. Here, outer if statement has spaces around parentheses but inner if statement doesn't.
+[Code Convention] Redundant new line.
+[Code Convention] Extra space following "if".
+Same as above
+This line is too long
+Sure I will add new line indent
+"Patch Set 2:
+
+(3 comments)"
+"Patch Set 3: Code-Review+1
+
+Seems code is Good."
+Space should be tab.
+Please add space in both side of equal sign.
+"Patch Set 2: Code-Review-1
+
+(3 comments)"
+"Patch Set 3: Code-Review-1
+
+(2 comments)"
+same as commented before.
+same as previous comment.
+"Patch Set 2: Code-Review+1
+
+It looks fine"
+Maintain coding rules
+"Patch Set 1: Verified+1
+
+DBuild Successful."
+"Patch Set 3: Code-Review-1
+
+(14 comments)"
+"Patch Set 5: Code-Review-1
+
+(7 comments)"
+"Patch Set 5:
+
+Please check new comments on patch 4."
+"Patch Set 6:
+
+(3 comments)"
+"Patch Set 7: Code-Review-1
+
+(2 comments)"
+"Patch Set 8:
+
+(2 comments)"
+"Patch Set 9:
+
+(2 comments)"
+don't mix tab and space.
+maintain bracketing rule.
+maintain coding format rule, pointer rule all over the file.
+please maintain naming rules in all over the file.
+maintain naming rules.
+Change this guard name
+same comment like previous file
+Please maintain naming convention
+Please maintain coding rules.
+"Don't mix tab and space.
+Use space in inline code here just like other code in this file."
+maintain naming convention
+correct the name. use bundle instead of buddle
+"Patch Set 1: Verified+1
+
+Local test is done."
+"Patch Set 1: Code-Review-1
+
+(6 comments)"
+Please follow proper commit message format.
+"Patch Set 3:
+
+(3 comments)"
+"Please write title what you done in CL.
+You don't implement popup here, you only change popup text here."
+"Patch Set 1: Verified+1
+
+DBuild Successful"
+"Patch Set 1: Code-Review+1
+
+looks fine"
+put log in constructor and destructor
+"Patch Set 3: Code-Review+1
+
+looks good"
+"Patch Set 1: Verified+1
+
+Local test is done"
+"Patch Set 8:
+
+Local test is done"
+Title is not proper
+Please check if these blocks are needed?
+"Patch Set 2: Verified+1
+
+(1 comment)"
+Please remove tap
+indent
+"Patch Set 3: Code-Review-1
+
+(3 comments)"
+"Patch Set 5: Verified+1
+
+it will be merged after pra"
+"Patch Set 5: Code-Review-1
+
+(5 comments)"
+"Patch Set 5:
+
+(10 comments)"
+"Patch Set 4: Code-Review-1
+
+(2 comments)"
+"Patch Set 7: Verified+1
+
+(2 comments)"
+"how about fix it as below ?
+
+alarmData.editTime = startTime;
+alarmData.modTime = startTime;"
+"how about fix it as below ?
+
+alarmData.modTime = time(nullptr);"
+"Patch Set 5: Code-Review-1
+
+(3 comments)"
+"Patch Set 5:
+
+(3 comments)"
+"Patch Set 2: Code-Review-1
+
+(2 comments)"
+"Patch Set 1: Code-Review-1
+
+(3 comments)"
+This part is not related to issue.
+getCurrentTimeWithFontSizeandDefaultFontName
+whitespace?
+white space?
+add a a checking id dest != x
+remove this line and check
+check indentation
+apply braces
+there is null checking code in _clearSurface(). this code is not necessary.
+_onLeftArrowButtonClicked
+_onRightArrowButtonClicked
+remove unused code
+change method name
+add semicolon
+"Patch Set 5:
+
+(5 comments)"
+Ok, I will add it in next cl.
+"Patch Set 1: Code-Review-1
+
+(1 comment)
+
+Please check my comment."
+I am fixing it
+I will remove in my next CL
+"Patch Set 1:
+
+Please do not merge this cl"
+"Patch Set 1:
+
+(4 comments)"
+"Patch Set 2: Code-Review+1
+
+(1 comment)
+
+Cherry-pick CL from gears."
+Ok I will remove this in my next CL.
+"Patch Set 2: Code-Review+2
+
+(1 comment)"
+"Patch Set 1: Code-Review+1
+
+Cherry-Picks CL."
+"Patch Set 1: Code-Review+1
+
+Cherry-pick CL."
+"Patch Set 1: Code-Review+1
+
+(1 comment)"
+"Patch Set 2: Code-Review+1
+
+(1 comment)"
+"Patch Set 1: Verified+1 Code-Review+1
+
+Cherry-pick CL."
+"Patch Set 4: Verified+1 Code-Review+1
+
+Cherry-pick CL."
+"Patch Set 1: Code-Review+2
+
+(2 comments)"
+"Abandoned
+
+didn't take updated code"
+ok I will change it in my next CL
+"Patch Set 2: Verified+1
+
+(3 comments)"
+"Patch Set 3:
+
+(5 comments)"
+"Patch Set 4: Code-Review+2
+
+(1 comment)"
+"Abandoned
+
+merge conflict"
+"Patch Set 2:
+
+(5 comments)"
+"Abandoned
+
+New requirement from takvir.h"
+"Abandoned
+
+Accidentally this cl has been submitted."
+"Patch Set 1: -Code-Review
+
+(1 comment)"
+"Patch Set 1: Code-Review+1
+
+(2 comments)"
+"Patch Set 4:
+
+(4 comments)"
+"Abandoned
+
+New CL Submitted"
+"Patch Set 2:
+
+(11 comments)"
+"Patch Set 3:
+
+(4 comments)"
+"Patch Set 2:
+
+This CL will be given after discussing with @Zamil vai"
+"Abandoned
+
+No need of this cl because that was not a valid issue. Code base also has been changed."
+Same.
+"Patch Set 4:
+
+(6 comments)"
+"Patch Set 1: Code-Review+1
+
+(3 comments)"
+Ok will remove static.
+OK i will comment that specific part.
+"Patch Set 4: Verified+1 Code-Review+1
+
+(2 comments)"
+"Patch Set 1: Code-Review+1
+
+Cherry-pick CL to support weather tips card."
+"Abandoned
+
+Changes already submitted."
+"Patch Set 1: Verified+1 Code-Review+1
+
+Cherry-pick CL to convert weather icon."
+"Patch Set 2: Code-Review-1
+
+(25 comments)"
+"Patch Set 1: Verified+1 Code-Review+1
+
+Cherry-pick CL to remove All Alarm."
+"Patch Set 6:
+
+(1 comment)"
+"Patch Set 4: Verified+1
+
+(4 comments)"
+Suggestion : You can add a Voice Assistant comment
+Please check the side effect. Commenting a code may impact video stabilization problem.
+"insert comment 
+//fall through"
+add TODO
+thanks.. now, memory is freed in dealloc method
+Please remove this.
+use full name for ...DN...
+"Base? ComponentEnabler ?? ?????? ?? ? ????. 
+Class Name? full package name???? ?? ? ???."
+Please check if this change is required
+Please chek if this change is required
+Few other fail case notified via delegate.
+"Please notice, we don't need to use ""respondToSelector"" API for mandatory methods of protocol.
+
+That's why changed to this way."
+Please check as discussed.
+are these values according to GUI guide?
+Please follow previous file's comment
+"?? ?? check style? ??? ????
+CHART_ITEM_COUNT? mGrapthTimeUnit? ??? ?? ???? ???????."
+"private static int CHART_ITEM_COUNT = 24 * 60 / 20; // 24hour * 60 mins
+constants?? ?? ?? ??? ?? ???? ? ??? ???? ??? ??? static? ?? ?? ? ? ????."
+2 * PeriodUtils.MILLIS_IN_HOUR
+Remove this.
+Don't delete this file.
+TODO is not needed anymore.
+okay ..
+why are we setting data as current date?
+remove foundation
+? API? WmDataSource? ???? presenter?? ???? ??? ??????.
+mIsInitText -> mIsMsgNeeded
+mIsInitText -> mIsInitTextNeeded
+performTasksOnAppLaunch
+performTasksOnEnterForground
+??? CSCUTils.isGDPRModel()? ???? ??????
+It's always false. what's mean the condition?
+private final
+Check if it can be removed
+remove mGuideArrowIndex.
+check condition
+change to WeakReference<HomeMeFragment> from HomeMeFragment
+"I worried timeout.
+How about try just 5 times?"
+what is mean?
+?? comment? ??? ??? ?? ?? ????.
+Can we create mailcomposer only once?
+Now mail composer object will be created only once in the life time of this view controller
+need to check finish
+Wrong import order
+"*Target ?? ???? ?? ??? ???? ??????
+*Current? data? ?? GuideView? field? ???? ?????."
+Is it required ?
+Seems redundant as the variable is already optional.
+Gear communicator not required for subscription management
+what is distant future?
+will add localizations later (~13/04)
+TODO - localization
+this if block can be removed (later is fine).
+no need of this change right?
+"Please check the changes in this file.
+If not required or common for all the developer please revert the changes"
+please check if this code needs to be deleted or need to be added in a async block
+fragment instance does not change.
+ArrayList --> List ? ?? ? ???. ??? ?? ???? API level(public method)??? base type ????? ?? ??? - ? ?? ?? ??? ArrayList ?? ?? List object? ?? ???? ?? ??? ???.
+As per conversation, decided not to make any changes
+Follow same comment here from previous file.
+check if ternary operator is necessary.
+"since we are not passing teamID anymore, remove TeamID from method name.
+better change it to something like-
+enableSSO(SSORequired.)"
+[nit] trailing whitespace
+Why this line is commented?
+here we should use the new method ?
+"public static final int DOTTED_TYPE = 0;
+public static final int LINE_TYPE = 1;
+
+mMainLineType = DOTTED_TYPE;"
+"public static final int DOTTED_TYPE = 0;
+public static final int LINE_TYPE = 1;
+
+private int mMainLineType = DOTTED_TYPE;"
+Ok.But think from caller perspective.Caller requested for DataBarAttributes so, printing with that is more readable for the caller.Here u are returning null against getDataBarAttributes().Inside checking is unknown to the caller.
+[Query]How to getLineAttribute list?Here, you are just providing method for getBarAttribute().For Legend line attribute not applicable?
+"Suggestion : Define all values in one constructor which will contain all parameters and then call it form constructors having less parameter. For instance, using this keyword,
+this(size, color,........)"
+No newline makes checkstyle errors.
+Remove newline among them
+Will setDeleted be applied for not installed case?
+Remove this line
+check as discussed
+100 is constant?
+"is this imageView used?
+if not kindly remove"
+"profileImageView would be better.
+Photo + Image seems redundant"
+remove this comment.
+Also, let's not make functions public. Because default is internal. Which is ok for our project.
+Complete Todo items before merging to me-6.0 branch.
+Hard coding value?
+Check if needs to be remove or commented
+makeCustomView(Context, int, int)? ??? ?????
+@Mamun,resourceid validity need not to be checked?What will happen if tracker sends invalid id?@Ms Kong, what is ur opinion regarding this?
+if we don't use mTitleTextColor, please remove it from TileViewData
+"SGEsimGearCommunicatorResponseData 
+change to SGEsimGearResponseData
+
+SGEsimGearCommunicatorRequestData
+to
+SGEsimGearRequestData
+
+These two class/object will be used for any communication to GM <->Gear"
+remove communicator
+Where this class is defined?
+Not a good name
+meta-data? ??? ??? ????
+getResources().getString() --> getString()
+?? ??? ??? getResources().getString() --> getString()
+"Patch Set 1: Code-Review+1
+
+LGTM"
+"Patch Set 1: Verified+1 Code-Review+2
+
+LGTM"
+"Patch Set 3: Code-Review+1
+
+LGTM"
+"Patch Set 3: Verified+1 Code-Review+2
+
+LGTM"
+"Patch Set 2: Verified+1 Code-Review+2
+
+LGTM"
+"Patch Set 1:
+
+(16 comments)"
+"Patch Set 2:
+
+(16 comments)"
+"Patch Set 2: Code-Review+1
+
+LGTM"
+"Patch Set 2: Verified+1
+
+LGTM"
+"Patch Set 4: Verified+1 Code-Review+2
+
+LGTM"
+Please align.
+"Abandoned
+
+Already released"
+"Patch Set 2: Verified+1 Code-Review+2
+
+(1 comment)
+
+LGTM"
+"Patch Set 4: Code-Review+1
+
+(1 comment)
+
+LGTM"
+indentation
+is this already defined?
+"please remove extra spaces here and below.
+Correct the indentation for the new code."
+nit: Indentation
+"Abandoned
+
+new patch added instead of append"
+"Patch Set 3: Code-Review-1
+
+(8 comments)"
+"Patch Set 6: Code-Review-1
+
+(2 comments)"
+Remove empty space
+Space after if ( maintain elsewhere
+"Patch Set 2:
+
+LGTM"
+"Patch Set 1:
+
+LGTM! Please review."
+"Patch Set 2: Code-Review+1
+
+Updated white space in the code."
+remove the extra space
+"Patch Set 1: Verified+1 Code-Review+1
+
+LGTM"
+"Patch Set 1: Code-Review+2
+
+Looks Good to Me"
+"Patch Set 1: Code-Review+2
+
+LGTM"
+"Patch Set 6: Code-Review+1
+
+LGTM"
+"Patch Set 6: Verified+1
+
+ACR has been approved.
+Mr Mahendra confirmed to submit the CL."
+"Patch Set 6: Verified+1 Code-Review+2
+
+LGTM"
+Please remove blank TAB space. align with space key
+if enabled
+if disabled
+"Patch Set 2:
+
+(6 comments)"
+"Patch Set 10: Code-Review+1
+
+LGTM"
+"Patch Set 11: Verified+1 Code-Review+2
+
+LGTM"
+remove extra line
+add a new line before this function
+add space between these two, follow this in other places too
+space before and after the operator, follow this in other places too
+space after "," here and everywhere
+Correct the alignment
+please remove this if not needed
+"Patch Set 2: Verified+1 Code-Review+1
+
+Patch verified"
+Remove this extra line
+Remove this log
+Remove this comment/code if not required
+"Abandoned
+
+not proper release"
+"Abandoned
+
+The changes have to be made in different file"
+"Patch Set 2: Code-Review+1
+
+Looks good to me"
+please remove this string.
+"Patch Set 1:
+
+(1 comment)
+
+Minor refactoring changes"
+Please check the indentation.
+"Patch Set 3: Verified+1
+
+(4 comments)"
+add a comment to remove this later.
+"Patch Set 1: Code-Review-1
+
+(4 comments)"
+"Patch Set 2: Code-Review-1
+
+(7 comments)"
+"Patch Set 5: Code-Review-1
+
+(9 comments)"
+"Patch Set 6: Verified+1
+
+(7 comments)"
+Add doc comment.
+"there"
+I think this can be done in another refactor CL
+"Patch Set 1: Cherry Picked
+
+This patchset was cherry picked to branch DEV_POC as commit f1de701924df360fcd23d41d495414eabc34ca79"
+"Abandoned
+
+Wrong branch"
+"Patch Set 2:
+
+Not as much change was required. Timeline fetch issue was not resolved after update. Must check activity fetch api"
+"Abandoned
+
+The CL is being abandoned as the requirement is not necessary anymore."
+"Patch Set 2: Code-Review-1
+
+(6 comments)"
+"Patch Set 4: Verified+1
+
+(6 comments)"
+"Patch Set 4: Code-Review-1
+
+(6 comments)"
+"Patch Set 2: Verified+1
+
+(2 comments)"
+"Patch Set 3: Code-Review-1
+
+(1 comment)"
+"Patch Set 8:
+
+(1 comment)"
+"Patch Set 8: Code-Review-1
+
+(1 comment)"
+"Patch Set 10: Verified+1
+
+(2 comments)"
+"Patch Set 1: Cherry Picked
+
+This patchset was cherry picked to branch main as commit 1a5706091b3c4578b898ca21618df8147f090560"
+"Patch Set 1: Cherry Picked
+
+This patchset was cherry picked to branch dev as commit c3369a1451692bc3ef916fef03ea45e90b0d4ab7"
+"Patch Set 1: Cherry Picked
+
+This patchset was cherry picked to branch dev as commit 5bd5e14cf86696b73388a9972c837fa958470511"
+"Patch Set 1:
+
+Please cherry-pick to dev."
+"Patch Set 1: Code-Review+1
+
+Please cherry-pick to dev."
+"Patch Set 3: Cherry Picked
+
+This patchset was cherry picked to branch dev as commit 7dfb0b05b60ab1d7caec6ebce3bacfb0ba3c1923"
+"Patch Set 1: Cherry Picked
+
+This patchset was cherry picked to branch dev as commit 95b8c523f1a722af3d9f30d1b6bcfa0ebb9fe4a7"
+"Patch Set 1: Cherry Picked
+
+This patchset was cherry picked to branch dev as commit 8aba2d18c67a98edf214f60adc94137ffb94238f"
+"Patch Set 1: Cherry Picked
+
+This patchset was cherry picked to branch main as commit ba640a63f541ad83ff9456afc779720e203cb677"
+"Patch Set 1: Cherry Picked
+
+This patchset was cherry picked to branch main as commit 299360473546da6267c6c8c0014e46dda2be675c"
+"Patch Set 1:
+
+Cherry-pick this change to dev"
+"Patch Set 1: Cherry Picked
+
+This patchset was cherry picked to branch main as commit 20ed363b831f308a8fbcc863bb7dde1b663ec3bd"
+"Patch Set 2: Code-Review+1
+
+Please cherry-pick in dev also"
+"Patch Set 1: Cherry Picked
+
+This patchset was cherry picked to branch main as commit 09e045e1d3984f4470869a3ae3ab945b44448227"
+"Patch Set 1: Cherry Picked
+
+This patchset was cherry picked to branch main as commit ef6e290a91d3006cdafbb7ed7d026889b1dc8479"
+"Patch Set 1: Cherry Picked
+
+This patchset was cherry picked to branch main as commit 4aa14a0bdcdab9d7f0d094af2ac68912f2c61228"
+"Patch Set 2: Cherry Picked
+
+This patchset was cherry picked to branch dev as commit 2be0513919477fca56b7e95a4103d740e6f7af2d"
+"Patch Set 3: Cherry Picked
+
+This patchset was cherry picked to branch dev as commit 0fdebb727ada12ebb712a09986d7872e762d56bb"
+"Patch Set 1: Cherry Picked
+
+This patchset was cherry picked to branch main as commit 13d647dd9517e8b8bccd62f9fa157fc7abc2b6a7"
+"Patch Set 1: Cherry Picked
+
+This patchset was cherry picked to branch dev as commit de8d10a4ce4637e128f898fce2514a6345b0a326"
+"Patch Set 1: Code-Review+1
+
+please cherry-pick in dev also"
+"Patch Set 12:
+
+(1 comment)"
+"Patch Set 14:
+
+(1 comment)"
+"Patch Set 16:
+
+(1 comment)"
+"Patch Set 17:
+
+(1 comment)"
+"Patch Set 18:
+
+(1 comment)"
+"Patch Set 19:
+
+(1 comment)"
+"Patch Set 21:
+
+(1 comment)"
+"Patch Set 22:
+
+(1 comment)"
+"Patch Set 23:
+
+(1 comment)"
+"Patch Set 27:
+
+(1 comment)"
+"Patch Set 1: Code-Review+1
+
+Cherry-pick to dev"
+"Patch Set 1: Cherry Picked
+
+This patchset was cherry picked to branch main as commit a9754915e8b7395617deb77f72b86ec50641ed57"
+"Patch Set 1: Cherry Picked
+
+This patchset was cherry picked to branch main as commit 63eaa56004c942194a712d743611a051062ce328"
+"Patch Set 1: Cherry Picked
+
+This patchset was cherry picked to branch main as commit 2055fbbee9caa95db75d6e293339cedae5c4f49a"
+"Abandoned
+
+wrong cl"
+"Abandoned
+
+Will be submitted later."
+"Patch Set 1: Cherry Picked
+
+This patchset was cherry picked to branch main as commit b0ae31c662f913261a171edcad5e76c146ace264"
+"Abandoned
+
+Change on another cl"
+"Abandoned
+
+changes merged with another CL"
+"Patch Set 1: Cherry Picked
+
+This patchset was cherry picked to branch main as commit 75bef9996fe9e11da584e903450655b105e4a76e"
+"Patch Set 1: Code-Review+1
+
+SW version information is correct."
+"Abandoned
+
+Abandoned"
+"Patch Set 1: Code-Review+1
+
+SW Version information verified"
+"Patch Set 1: Code-Review+1
+
+This solution didn't work for appstore issues. so reverting"
+"Abandoned
+
+Change added in new CL."
+"Patch Set 3: Code-Review+1
+
+(1 comment)"
+"Patch Set 1: Code-Review+1
+
+SW version is downgraded to check a dummy upload"
+"Abandoned
+
+already given by Sumi di"
+"Patch Set 1:
+
+(11 comments)"
+"Patch Set 5: Code-Review+1
+
+Thanks for making the changes!"
+"Patch Set 1: Code-Review+1
+
+SW version information in correct."
+"Patch Set 1:
+
+(1 comment)
+
+Thanks for doing this."
+will fix in next patchSet
+"Patch Set 1: Code-Review-2
+
+(51 comments)
+
+Please check comments."
+"Patch Set 2: Verified+1
+
+(52 comments)"
+"Patch Set 2:
+
+(17 comments)"
+"Patch Set 3: Verified+1
+
+(16 comments)"
+"Patch Set 4: Verified+1
+
+(29 comments)"
+"Patch Set 4: Code-Review-1
+
+(1 comment)
+
+Please check and update"
+"Patch Set 6: Code-Review-1
+
+(6 comments)"
+"Patch Set 7:
+
+(6 comments)"
+"Patch Set 7: Code-Review-2
+
+(41 comments)"
+"Patch Set 9: Verified+1
+
+(40 comments)"
+"Patch Set 9: Code-Review-1
+
+(1 comment)"
+"Patch Set 9: Code-Review-1
+
+(23 comments)"
+"Patch Set 10: Verified+1
+
+(31 comments)"
+"Patch Set 10: Code-Review-1
+
+(5 comments)
+
+Please check comments and finalise."
+"Patch Set 11: Verified+1
+
+(5 comments)"
+"Patch Set 11: Code-Review-1
+
+(1 comment)"
+"Patch Set 12: Verified+1
+
+(1 comment)"
+"any"
+"provided"
+"1) thanks. This macro is moved to SAUtil.h file.
+2) Added"
+"Abandoned
+
+Test commit."
+Applied but no change.
+Are we still using it?
+According to discussion, this error message is merged with the another error message. Updated now.
+As per discussion, It stays as before.
+Please replace this empty string.
+Please replace this empty string
+Brackets unnecessary.
+Please put SALogDebugs for specific problem finding.
+I don't think we need multiple lines here. Can you please check?
+Please use a new line after the if statements
+Please use spacing after comma.
+I think the new line indicator in the last line is not necessary and inappropriate.
+I think there should be a space between "M" and "("
+Its seems to be OK.
+"Patch Set 1: Code-Review-1
+
+(5 comments)"
+"Patch Set 2: Verified+1
+
+(8 comments)"
+Please check last comment.
+Please check previous comment
+Please check previous comments.
+Please check previous related comments
+Please check reply to last comment.
+Please check why there are two lines here.
+"Patch Set 1: Code-Review-1
+
+(9 comments)
+
+Please  check comments"
+Please remove empty line
+"Patch Set 1: Code-Review-1
+
+(13 comments)"
+"Patch Set 2: Verified+1
+
+(13 comments)"
+Please remove these 2 empty lines.
+Please fix comma positioning and spacing.
+Please fix grammar
+Please fix grammar.
+Please follow previous comments.
+Please insert a new line here.
+Please keep them in the same line.
+Please maintain a one space gap between brackets.
+Please use a space after comma.
+"Please use proper commenting format as per last discussion. Should be like following...
+/* ......
+ * .......
+ * .......
+*/"
+Please use a one line gap in between.
+Please use a one line gap in between
+Please use a one line spacing in between.
+Please use code formatter for the whole function.
+Please use code formatter on the whole function.
+Please use code formatter here.
+"Abandoned
+
+test commit"
+"Patch Set 1: Code-Review-2
+
+(161 comments)
+
+Please check comments"
+"Patch Set 4: Verified+1
+
+(137 comments)"
+"Patch Set 4: Code-Review-1
+
+(72 comments)"
+"Patch Set 6: Code-Review+1
+
+(57 comments)"
+"Abandoned
+
+Unnecessary file added."
+"Restored
+
+Mistakenly abandoned."
+"Abandoned
+
+Wrong system class added"
+Please put a comma in between for better readability.
+please put a comment on why a non-body element is added here.
+Please put constant
+Please put SALogDebug so that we can identify it
+Please remove commented out code.
+Please remove commented out codes. We can find them from history anytime.
+Please remove empty line.
+please remove empty space
+Please remove empty space.
+Please remove hardcode. I cannot allow running code to pass this way.
+Please remove this space.
+Please remove unnecessary code.
+Please remove white space here.
+Please remove whitespaces.
+Please rename if needed.
+Please use a line gap
+Please use a new line before the comment.
+Please use a one line gap
+Please use code formatting (ctrl+I)
+Please use spacing.
+Please remove whitespace.
+please use more meaningful naming.
+There should be a new line before.
+Please insert a newline before.
+Please apply code format.
+"Abandoned
+
+missing latest CL"
+"Abandoned
+
+Wrong merge."
+"Patch Set 2: Verified+1
+
+(12 comments)"
+"Patch Set 3: Verified+1
+
+(3 comments)"
+Please use a comma.
+"Patch Set 1:
+
+(1 comment)
+
+syslog changed to printf.
+good job."
+syslog changed to printf
+"Abandoned
+
+new commit added"
+changed title from **S{-c c-}lient 0.10.84 update** to **S{+CC+}lient 0.10.84 update**
+changed the description
+resolved all discussions
+"I checked with designer that the description is true.
+I may fix yesterday's MR."
+changed title from **Upgrade SASDK Version 2.5.2019010101** to **Upgrade SASDK Version 2.5.2019010101{+ (With new HTTP header update)+}**
+Debug Log added
+please remove this comment
+"@ng.van.hanh Thanks.. I will update Locale strings. ~
+:thumbsup:"
+changed title from **Resolved the crash that was rejected by Appstore** to **Resolved the crash {+issue +}that was rejected by Appstore**
+changed title from **Change camera icon name** to **{+Fix P190104-01209: +}Change camera icon name**
+"Thank you.
+I will change it in next commit."
+changed title from **{-Resolve P181226-04063 "Jbeck/"-}** to **{+fix plm issue (P181226-04063)+}**
+changed title from **[avpplayer.framework] Bug fix for talkback feature** to **[avpplayer.framework] Bug fix for talkback feature{+ (ver 1.0.99)+}**
+changed title from **{-Master-}** to **{+[Title] Remove switch phrase regarding DataMatrixScanning+}**
+changed title from **DF190103-03185 resolved** to **{+[SRI][TVPlugin]+}DF190103-03185 resolved**
+Please check this.
+@Mohammod.Ullah if resolved, mark as.
+canceled the automatic merge
+That's a good recommendation. Updated!
+changed title from **Update GUI in choose wallpaper screen, fix header indent** to **Update GUI in choose wallpaper screen, fix header indent{+. Update navigation title in manage location screen+}**
+Thanks for checking. I might add wrong variable before..
+Same as above.
+changed title from **{-1. codeVerifier persisted as per SA SDK team's recommendation 2. signIn issue fix-}** to **{+FIX SignIn Issue+}**
+@bob.pappas do you want to merge this in production branch?
+changed title from **{-Tvplugin ch dev-}** to **{+[TVPlugin][Ambient] UX Requirements+}**
+changed title from **Crash Issue Fixed for Add Search** to **Crash Issue Fixed for Add {+Device +}Search**
+is this required ?
+Kindly remove the commented code
+Kindly remove commented code
+changed title from **Fix EasySetup Bug** to **Fix EasySetup Bug{+s+}**
+Should be ok
+changed title from **Add Devices Sor{-y-} by property to LocationDataSource** to **Add Devices Sor{+t+} by property to LocationDataSource**
+Just pushed it up due to slow local build times.
+changed title from **{-displayName add-}ed for VisualContentCard when Reorder** to **{+Blank data fix+}ed for VisualContentCard when Reorder**
+changed title from **[HMVS] {-base-} code** to **[HMVS] {+M3 plugin+} code**
+changed title from **Display replace Z-Wave S2 Alert** to **Display replace Z-Wave S2 Alert{+ (ONEAPP-8452)+}**
+changed title from **Fix App cr{-u-}sh issue.** to **Fix App cr{+a+}sh issue.**
+"@joonghwan Our primary target for this MR is just to add the AnimatorSerializer for location summary.
+However thanks for the suggestions, we will apply those VI in separate MR.
+
+`UIView.animate(withDuration: 5.0, delay: 0, options: [], animations: {` t"
+@muntasir @k.hassan @msoo.lee Please check the changes
+is this supported with localization
+changed title from **WIP: {-define protocol,  implement interactor & add necessary methods for DashboardRoomCard Order Sync-}** to **WIP: {+Sync Room Order with DashboardContainerCards order+}**
+"`R1, R2, R2, R3`
+
+the `R2` is two"
+CC @zubair46
+changed title from **{-Long.ld/dev-}** to **{+Update new UI for Move device to room+}**
+This has been updated with the latest changes from the SmartKit MR and is ready for testing. It would be great if people could pull this down and give it a run testing out device and ADT code. Big thanks to @sandeep for helping work around the usage of device.status in the ADT code!
+changed title from **Merge branch 'master' into '{-master-}'** to **Merge branch 'master' into '{+production/1.6.25+}'**
+changed title from **combine some logging statements to meet swiftlint class body length requirement,â€¦** to **combine some logging statements to meet swiftlint class body length requirement,â€¦{+ (ONEAPP-8113)+}**
+changed title from **[T{-itle-}] Distinguish Log Level Using BundleID** to **[T{+VPlugin+}] Distinguish Log Level Using BundleID**
+changed title from **{-Implement LocationSummaryDeviceStatusInteractor-}** to **{+Cherry pick Implementation of LocationSummaryDeviceStatusInteractor in Production+}**
+changed title from **Fix issue room name, location mode name are save with leading & trailing whitespaces** to **Fix issue room name, location mode name are save{+d+} with leading & trailing whitespaces**
+changed title from **Cherry Pick 'MR - 13248' {-branch -}changes into 'production/1.6.25'** to **Cherry Pick 'MR - 13248' changes into 'production/1.6.25'**
+changed title from **{-Merge branch 'Fix_P190122-03482' into 'master-}'** to **{+Cherry Pick 'Fix_P190122-03482' branch changes into 'production/1.6.25+}'**
+changed title from **[T{-itle] [T-}VPlugIn]Fix Heading Text Issue in PhotoApp** to **[TVPlugIn]Fix Heading Text Issue in PhotoApp**
+changed title from **{-Merge branch 'jbeck/hasConnectedDevicesAPI' into 'master'-}** to **{+API to get connected device on FAC+}**
+changed title from **WIP: activate device status location summary{- initially-}** to **WIP: activate device status location summary**
+changed title from **{-WIP: a-}ctivate device status location summary** to **{+A+}ctivate device status location summary**
+changed title from **{-WIP: Test CI with DRY test script-}** to **{+Add remote swiftlint rules and initial setup for DRY script in CI+}**
+changed title from **{-WIP: m-}onitor if migration required using location list that contains unassigned devices** to **{+M+}onitor if migration required using location list that contains unassigned devices**
+changed title from **{-WIP: TV Search added-} at Supported devices** to **{+Search option added for TV category+} at Supported devices**
+changed title from **{-WIP: iPad Support at Add device-} (Beyond M3)** to **{+iPad Support at Add device - Device Category+} (Beyond M3)**
+Comment out this test as it is failing pipeline test
+"Comment out this test as it is failing pipeline test.
+Report to responsible developer for implementation of Bool2DArray in SCClient."
+"Comment out this test as it is failing pipeline test.
+Report to responsible developer for implementation of Int2DArray in SCClient."
+"Comment out this test as it is failing pipeline test.
+Report to responsible developer for implementation of String2DArray in SCClient."
+"Comment out this test as it is failing pipeline test.
+Report to responsible developer for implementation of BoolArray in SCClient."
+changed title from **Ensure that {-the last productData and appData are-} being saved after fetching.** to **Ensure that {+only productData and appData with unique id is+} being saved after fetching.**
+changed title from **{-Ensure that only productData and appData with unique id is being saved after fetching-}.** to **{+Replace previous product or app data if the release status is not ALPHA+}.**
+changed title from **remove {-invitation -}api from devicedatasource** to **remove api from devicedatasource**
+changed title from **WASH Logic** to **{+Implement +}WASH Logic**
+changed title from **{-Master-}** to **{+for sync with fork branch+}**
+DREAM_SAC_OPT_ADD_NEW_ROOM
+changed title from **[SHM] Add SA Log for SHM plugin(main, history, sensors)** to **[SHM] Add SA Log for SHM plugin(main, history, sensors{+, alert details+})**
+Remove hard coded value
+changed title from **Merge branch 'P190130-05367' into 'master'** to **{+[Cherrypick] +}Merge branch 'P190130-05367' into 'master'**
+"please review it
+
+@taitty.kim  @dasol.kwon  @jed.choi  @jinho123.yoo  @mijung4612.lee"
+changed title from **[TVPlugIn] [DF190207-00727] Next button is not displayed{- [Change Type] DF190207-00727-}** to **[TVPlugIn] [DF190207-00727] Next button is not displayed**
+is this necessary?
+changed title from **Reminder Done Button Availability** to **{+Linting issues and +}Reminder Done Button Availability**
+changed title from **{-Merge branch 'issue/P190131-04632' into 'master'-}** to **{+fix (After discovered device, device is not shown on dashboard.)+}**
+changed title from **Fix the page was not scrollable in iphone se {-due -}(Registered view page)** to **Fix the page was not scrollable in iphone se (Registered view page)**
+plz check existence before appending
+changed title from **App{-end error handling for WASH-}** to **App{+ly `add network` function and error handling for VOX+}**
+Changelog entry?
+changed title from **WIP: Update device status page** to **WIP: Update device status page{+ for actual status string & fix item removal issue+}**
+changed title from **{-WIP: a-}ddDeviceSignInButton update** to **{+A+}ddDeviceSignInButton update**
+changed title from **WIP: {-[Change Type] -}2 New Test Classes Added** to **WIP: 2 New Test Classes Added**
+changed title from **WIP: {-2 New Test Classes Added-}** to **WIP: {+Add unit test for LocationSummaryPopulatorForLocationData+}**
+changed title from **{-Da plugin 2018-}** to **{+SHP easy setup bug fixed+}**
+changed title from **implement {-swipe left/right ges-}ture in select wallpaper screen** to **implement {+new fea+}ture in select wallpaper screen**
+changed title from **Apply New UX {-2.0 -}To Registered Device** to **Apply New UX To Registered Device**
+changed title from **Update the time format of History view** to **{+ONEAPP-9878: +}Update the time format of History view**
+changed title from **WIP: {-Unit test added for DashboardSceneRoomContainerCardsPopulator-}** to **WIP: {+Written unit test for DashboardSceneRoomContainerCardsPopulator class+}**
+changed title from **WIP: Dynamic Font Support at Add Device** to **WIP: Dynamic Font Support at Add Device{+ and GUI Updates+}**
+changed title from **[HMVS] Fix minor GUI proper{-l-}y in SubscriptionView** to **[HMVS] Fix minor GUI proper{+t+}y in SubscriptionView**
+changed title from **[Title] {-Register-} tariff for VDF hub V3** to **[Title] {+Device id to Amigo with+} tariff for VDF hub V3**
+changed title from **fix PLM P19021{-3-}-04806, add "No devices found" cell when searching device** to **fix PLM P19021{+4+}-04806, add "No devices found" cell when searching device**
+changed title from **{-Hmvsm3/dev5-}** to **{+[HMVS] m3 minor bugs fixed.+}**
+Thanks. I will add code that you mention.
+changed title from **{-Portland c-}** to **{+[TVPlugin][MA-4902] Add portland into master+}**
+changed title from **Added cancel butto links** to **Added cancel butto{+n+} links**
+changed title from **fix launching performance issue** to **{+ONEAPP-10070. +}fix launching performance issue**
+changed title from **{-Add json for effect animation (Automation-})** to **{+Resolve plm issue(P190305-06535+})**
+changed title from **Update Location** to **Update Location{+Context+}**
+changed title from **[Title] Add {-features for refactored hub V3, ADT-}** to **[Title] Add {+HubV3Navigator and EasySetupNavigator+}**
+changed title from **{-Change the background colour of Collection View at AddDevices to support large title.-}** to **{+Add device LargeTitle Background Colour Issue fixed+}**
+changed title from **{-RefactoringContentsFetchManager-}** to **{+Fix ContentsFetchManager issue for different parameter in case of Promotion+}**
+changed title from **{-H-}elp card button position issue** to **{+Fixed h+}elp card button position issue**
+changed title from **[TVP{-lugIn] [TVP-}LUGIN][Portland]Implement Photo App** to **[TVPLUGIN][Portland]Implement Photo App**
+changed title from **{-update-} framework 0.10.96** to **{+Update SCClient+} framework 0.10.96**
+"@joonghwan 
+I changed some code of yours. I hope you review this. Thanks"
+changed title from **Fetch Catalog Data is Moved from Main Thread** to **Fetch Catalog Data is Moved from Main Thread{+ (JIRA 10213)+}**
+changed title from **[TVPLUGIN][MA-4915] Fix {-Infinite loading Market Issue-}** to **[TVPLUGIN][MA-4915] Fix {+Market Issue(Infinite Photo loading)+}**
+"@Gwiro 
+This is a good and simple solution at this time.
+May you tried to solve the performance issue, which is caused by iteration in getting `getBasicDeviceCardData(deviceId:)`.
+
+Now I, @boncheol and @jaewoon.yang has a change for reducing iteration"
+changed title from **Apply REST API {-on-} getEasySetupBlob** to **Apply REST API {+to+} getEasySetupBlob**
+changed title from **AppID added for instabug for {-Alpha build. (ONEAPP-10249-})** to **AppID added for instabug for {+non AppStore builds. (ONEAPP-10249) (ONEAPP-10326+})**
+This change is welcome but we'll want to make sure we understand why we are selecting a `SafeSignal` here. It's not common for this type of use case (I think, I could be wrong too so would like to discuss). Thanks!
+changed title from **{-Fix build error for recent search-}** to **{+Update All Devices follow new GUI+}**
+I have updated follow your comment. Thanks
+changed title from **{-Tvplugin watchnow-}** to **{+[TVPlugin] Fix UG WatchNow issue+}**
+changed title from **Improve dashboard** to **Improve dashboard{+ performance+}**
+changed title from **Made fetch apis reactive ones** to **Made fetch apis reactive ones{+ (ONEAPP-10468)+}**
+changed title from **Add Automation Unit Test for listing automation items** to **Add Automation Unit Test for listing automation items{+(ONEAPP-10156)+}**
+changed title from **{-Merge branch 'ONEAPP-10340' into-} 'production/1.6.29'** to **{+Cherry pick 'ONEAPP-10340' from+} 'production/1.6.29'**
+changed title from **{-Cherry pick 'ONEAPP-10340' from 'production/1.6.29'-}** to **{+Make sure SSE is available before starting device join+}**
+changed title from **{-changing onMain for cherrypick-}** to **{+CherryPick changes of MR-14818 to Production+}**
+changed title from **remove routine to search near by device when wifi connection is closed** to **remove routine to search near by device when wifi connection is closed{+ (P190315-04468)+}**
+Consistency should be maintained in naming, Please follow naming of scheduler used in `DashboardUIServiceInteractor` e.g. "DashboardUIServiceInteractor.Scheduler.Queue.Serial"
+changed title from **[TVPlugin]{-Fix remote floatingButton issue on Frame screen-}** to **[TVPlugin]{+ Fix Frame issues+}**
+changed title from **{-seperate l-}ocationContext** to **{+Modularization for L+}ocationContext**
+changed title from **{-WIP: Update VisualContentMiddleware Protocol-}** to **{+Update VisualContentMiddleware Protocol at VisualContentCard+}**
+changed title from **Replacing PromiseKit with ReactiveSwift** to **Replacing PromiseKit with ReactiveSwift{+ from Catalog+}**
+marked as a **Work In Progress**
+Required this comment ?
+changed title from **{-fix autocomplete issue-}.** to **{+[Title] fix autocomplete issue in tvplugin+}.**
+It would be better to revert the changes here.
+Please check whether or not, always setting nil to an image introduces a flick in existing cell.
+"Abandoned
+
+No Need this Cl accidentally has given."
+"Patch Set 3: Code-Review+2
+
+(2 comments)"
+Spacing problem
+"Patch Set 1:
+
+Moden feature"
+"Abandoned
+
+No need this cl any more"
+"Abandoned
+
+No need"
+"Patch Set 2: Code-Review+1
+
+Integrate application force update API from UI side."
+"Patch Set 1: Verified+1 Code-Review+1
+
+Looks Okay."
+"Restored
+
+Needed for PB"
+"Restored
+
+test cl to Check PB"
+"Abandoned
+
+Test Cl
+May be Restored for Test Purpose.
+SRBD DPI"
+"Abandoned
+
+Now this test CL is not required."
+"Patch Set 3: Verified+1 Code-Review+1
+
+Add weather hourly data support for moden."
+"Patch Set 1: Cherry Picked
+
+This patchset was cherry picked to branch dev as commit d2a599f0029fd209bc468fe75e639488c4a8deb6"
+"Patch Set 1: Code-Review+2
+
++2 for starting Quick release"
+"Patch Set 1: -Code-Review
+
+Please test fully."
+"Abandoned
+
+cl given by shona vai"
+"Abandoned
+
+Change merged in another cl"
+please put a space after colon.
+"Yes, it should be called from viewDidLoad.
+Done."
+"Patch Set 1: Code-Review+1
+
+Please cherry-pick."
+"Patch Set 2: Code-Review+1
+
+(3 comments)"
+give a meaning full name.
+"Abandoned
+
+Unnecessary change for dev branch. Moved to dev_2.0 branch."
+"Abandoned
+
+This CL was for testing"
+"Patch Set 14: Code-Review+1
+
+ok"
+"Patch Set 3:
+
+(8 comments)"
+can we use one view for both Delete and Delete All ?
+can we use one button for both Delete and Delete All ?
+Please remove space.
+"Patch Set 2: Code-Review+1
+
+SW version information verified"
+add to top of function
+define typealias
+Can we remove this commented codes?
+shouldn't it be weak?
+trailing_closure_violation
+
+In the current Server doc, Is ProfileId and guid different?
+didSelectDevice
+what does 'sc' stands for.
+Please apply "ctrl+i"
+Please apply "ctril+I"
+I think this information is obsolete now.
+Should there be a new line? please check.
+"Information" is plural itself. Please check.
+Please use a new line before.
+Please check comment from previous class of similar type.
+"We do not this check anymore.
+
+Please remove."
+Should be plural
+Please remove new line
+please remove this code
+use typealias
+This label remains hidden always. You could delete the label.
+Unnecessary change? Please check indentation.
+This  looks like hard code find better way
+please change if this dimen is added by you.
+group with other public functions
+Keep previous modifier not to expose to developer.
+uncomment above one and delete print
+change the header text.
+Better show 'Failed to load'
+Please look at the previous comment about this method.
+Unnecessary change.
+I am not sure if "USER" should be mentioned here. Please check and explain.
+please check is it necessary or not
+"is this required?
+It was not available in previous patch."
+use formatter
+Is this number localized?
+Please fix
+Please maintain sequence.
+Maybe "in" is more usable here.
+Check comments in previous file.
+Please put a new line before return statement
+"Please use the existing format. Otherwise, user may confuse.
+For error . we use three keys: error, error_code, error_description. 
+Please see the WebAPIErrorUtil for better understanding."
+Please check if this "FIXME" comment is still require.
+remove 'Error' as it is already error code.
+"Patch Set 1:
+
+I will submit later. Please wait."
+"Abandoned
+
+This change is not needed anymore."
+"Abandoned
+
+No need this commit"
+"Abandoned
+
+This is committed only for test purpose."
+"Abandoned
+
+Need to check."
+"Abandoned
+
+No need for this change"
+"Abandoned
+
+Not needed"
+"Patch Set 1: -Code-Review
+
+(4 comments)"
+"Patch Set 1:
+
+Cherry-Pick from level_imsstack"
+"Abandoned
+
+Need to fix locally"
+"Patch Set 4: Verified+1
+
+(1 comment)"
+"Patch Set 7: Verified+1
+
+(4 comments)"
+"Patch Set 8: Verified+1
+
+(2 comments)"
+"Patch Set 4: Code-Review-1
+
+(11 comments)"
+"Patch Set 5: Verified+1
+
+(11 comments)"
+"Patch Set 5:
+
+(14 comments)"
+"Patch Set 7: Verified+1
+
+(14 comments)"
+"Patch Set 3: Code-Review-1
+
+(5 comments)"
+"Patch Set 3:
+
+(7 comments)"
+"Patch Set 8: Code-Review+2
+
+(1 comment)"
+"Patch Set 9: Code-Review+2
+
+(2 comments)"
+"Patch Set 3: Code-Review-1
+
+(13 comments)"
+"Patch Set 3: Code-Review-1
+
+(16 comments)"
+"Patch Set 5:
+
+(4 comments)"
+"Patch Set 6:
+
+(7 comments)"
+"Patch Set 7:
+
+(6 comments)
+
+Minor changes required"
+"Patch Set 5:
+
+(7 comments)"
+"Patch Set 10:
+
+(2 comments)"
+"Patch Set 1: Code-Review-1
+
+(4 comments)
+
+Minor refactoring changes"
+"Patch Set 4: Verified+1
+
+(5 comments)"
+"Patch Set 4: Code-Review-1
+
+(9 comments)"
+"Patch Set 4:
+
+(9 comments)"
+"Patch Set 3: Verified+1
+
+(7 comments)"
+"Patch Set 4: Code-Review-1
+
+(3 comments)"
+"Patch Set 4: Code-Review-1
+
+(4 comments)"
+"Patch Set 6:
+
+(4 comments)"
+"Patch Set 7:
+
+(3 comments)"
+"Patch Set 5: Verified+1
+
+(8 comments)"
+"Patch Set 1: Code-Review-1
+
+(7 comments)"
+"Patch Set 3: Code-Review-1
+
+(24 comments)"
+"Patch Set 4: Code-Review-1
+
+(10 comments)"
+"Patch Set 4:
+
+(11 comments)"
+"Patch Set 9: Verified+1
+
+(1 comment)"
+"Patch Set 9: Code-Review-2
+
+(16 comments)"
+"Patch Set 9:
+
+(15 comments)"
+"Patch Set 13: Code-Review-1
+
+(7 comments)
+
+Some minor changes needed."
+"Patch Set 13:
+
+(7 comments)"
+"Patch Set 14:
+
+(2 comments)"
+"Patch Set 4: Code-Review-2
+
+(6 comments)"
+"Patch Set 5: Verified+1
+
+(6 comments)"
+"Patch Set 7: Code-Review-1
+
+(3 comments)
+
+Check my Comments in patch 6"
+"Patch Set 8: Verified+1
+
+(3 comments)"
+"Patch Set 8: Verified-1
+
+(2 comments)"
+"Patch Set 5: Code-Review-1
+
+(2 comments)"
+"Patch Set 2: Code-Review-1
+
+(3 comments)
+
+Minor refactoring errors"
+"Patch Set 4: Code-Review-1
+
+(6 comments)
+
+Check my Comments in Patch set 3"
+"Patch Set 7: Code-Review-1
+
+(5 comments)"
+"Patch Set 8: Verified+1
+
+(5 comments)"
+"Patch Set 9: Code-Review-1
+
+(2 comments)"
+"Patch Set 10: Code-Review-1
+
+(2 comments)"
+"Patch Set 4: Code-Review-1
+
+(3 comments)
+
+Minor refactoring required"
+"Patch Set 5: Verified+1
+
+(3 comments)"
+"Patch Set 1: -Verified
+
+(4 comments)"
+"Patch Set 4: Code-Review-2
+
+(10 comments)"
+"Patch Set 6: Verified+1
+
+(8 comments)"
+"Patch Set 3: Code-Review-1
+
+(4 comments)"
+"Patch Set 10: Verified+1
+
+(1 comment)"
+"Patch Set 12: Code-Review-1
+
+(6 comments)"
+"Patch Set 2: Code-Review-1
+
+(4 comments)"
+"Patch Set 3: Code-Review-1
+
+(12 comments)"
+"Patch Set 3:
+
+(12 comments)"
+"Patch Set 5:
+
+(8 comments)"
+"Patch Set 6: Code-Review-1
+
+(7 comments)"
+"Patch Set 7: Code-Review-1
+
+(3 comments)"
+"Patch Set 7:
+
+(13 comments)"
+"Patch Set 8: Code-Review-1
+
+(5 comments)"
+"Patch Set 8:
+
+(3 comments)"
+"Patch Set 8:
+
+(8 comments)"
+"Patch Set 9: Code-Review-1
+
+(3 comments)"
+"Patch Set 9:
+
+(3 comments)"
+"Patch Set 10: Code-Review-1
+
+(2 comments)
+
+Please resolve Merge conflict too."
+"Patch Set 11: Code-Review-1
+
+(4 comments)"
+"Patch Set 12: Verified+1
+
+(2 comments)"
+"Patch Set 13: Verified+1
+
+(1 comment)"
+"Patch Set 5: Verified+1
+
+(14 comments)"
+"Patch Set 6: Verified+1
+
+(5 comments)"
+"Patch Set 9: Code-Review-1
+
+(4 comments)"
+"Patch Set 10: Verified+1
+
+(4 comments)"
+"Patch Set 5: Code-Review-1
+
+(4 comments)"
+"Patch Set 6:
+
+(5 comments)"
+"Patch Set 9: Code-Review+1
+
+(1 comment)"
+"Patch Set 1: Code-Review+2
+
+(6 comments)"
+"Patch Set 7: Code-Review-1
+
+(1 comment)"
+"Patch Set 4: Code-Review-1
+
+(5 comments)"
+"Patch Set 5: Verified+1
+
+(5 comments)"
+"Patch Set 6: Verified+1
+
+(3 comments)"
+got it!
+"Patch Set 3: Verified+1
+
+(2 comments)"
+"Patch Set 2: Verified+1
+
+(4 comments)"
+"Patch Set 5:
+
+(6 comments)"
+"Patch Set 7: Verified+1
+
+(12 comments)
+
+Still has some issues in family to device transition. Will be fixed in separate commit"
+"Patch Set 14:
+
+(6 comments)"
+"Patch Set 14:
+
+(20 comments)"
+"Patch Set 18: Verified+1
+
+(6 comments)"
+"Patch Set 14:
+
+(12 comments)"
+"Patch Set 19: Code-Review-2
+
+(18 comments)"
+"Patch Set 20: Verified+1
+
+(14 comments)"
+"Patch Set 20: Code-Review-1
+
+(4 comments)"
+"Patch Set 19:
+
+(5 comments)"
+"Patch Set 20:
+
+(1 comment)"
+"Patch Set 22:
+
+(2 comments)"
+"Patch Set 24: Verified+1
+
+(1 comment)"
+"Patch Set 24: Code-Review-1
+
+(8 comments)"
+"Patch Set 24:
+
+(8 comments)"
+"Patch Set 25: Code-Review-1
+
+(1 comment)"
+"Patch Set 25:
+
+(1 comment)"
+"Patch Set 27:
+
+(2 comments)"
+"Patch Set 6: Code-Review-1
+
+(9 comments)"
+"Patch Set 8: Verified+1
+
+(8 comments)"
+"Patch Set 8: Code-Review-1
+
+(2 comments)"
+"Patch Set 9: Verified+1
+
+(3 comments)"
+"Patch Set 10: Code-Review-1
+
+(8 comments)"
+"Patch Set 11: Verified+1
+
+(8 comments)"
+"Patch Set 12:
+
+(2 comments)"
+"Patch Set 13: Verified+1
+
+(2 comments)"
+"Patch Set 2: Verified+1
+
+""@1x"" is removed."

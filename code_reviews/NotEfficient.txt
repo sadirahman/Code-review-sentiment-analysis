@@ -1,0 +1,539 @@
+"Abandoned
+
+asd"
+Restored
+"Abandoned
+
+TEST CL"
+"Restored
+
+for PB testing"
+"Abandoned
+
+Test CL; May be Restored for Test Purpose.
+SRBD DPI"
+Done
+Followed. Thanks.
+Thanks. Changed
+that's*
+can be done*
+is renamed*
+Thanks. Updated
+Thanks. fixed
+Thanks.Fixed
+Changed
+it can be done, please/
+were*
+contain*
+an*
+Thanks. changed.
+Sure I will change it.
+Fixed
+I see. Got it.
+Sure sounds good
+Good catch I will remove it
+Good catch this was missed.
+Will update it thanks
+It is removed in patch 6
+Will fix in patch 7
+Will change in patch 7
+Good point. Will change in patch 7
+Yeah that's fine I will remove it.
+I like this idea!
+Very nice
+Fixed anyways in next patch.
+Good point fixed in next patch
+Fixed in next patch
+Changed in next patch
+Great point I will update it in new patch
+Yeah I agree. Changed in new patch
+Good catch fixed it
+Good catch will fix it
+Great catch have fixed it! Changed to job_id as it should be.
+"Patch Set 1: Verified-1 Code-Review-2
+
+Great comments, will work on it on Monday"
+Ok sure
+Good Idea, I will make this change in the next commit.
+Done.
+BUilding .tpk fixed this
+Good catch! Will do.
+Oh wow I don't know how I missed that. Thanks!
+same
+Abandoned
+ok
+"Patch Set 3:
+
+Done."
+"Abandoned
+
+Test"
+Ok , got it, thanks.
+OK.
+ok fixing it
+Remove.
+Remove
+Why no code develop?????
+?? ???? finish()  ?? ????. 2? ? ?? ?? ? ????.
+??? ?????? stopLocationManager()? ?? ?? ActivityRecognitionLocationManager.stopLocationManager()? ?? ?? ??? ??? ????
+???, ?? ??? ??????. ???????.
+please request review to Dahee. since i don't know why HomeDashboardActivity listen it.
+did you check it with Ms. Dahee?
+registerReceiver? WmMainActivity? dependency? ????, WM main activity??? listener? ??? ? ? ???, ?? global? scope?? listener? ??? ??? ????
+Won't be necessary.
+??? ????? / ? ???? string? ??? ? ????. ?? ?????? ????? ?? string?? ??????.
+?? ????? convert10dataTo20data(), convert10dataTo120data() ? ??? ???? param?? time interval? ??? ?? ?? ? ????.
+? ????? ????? ?????
+??? ???? ???? ????? ??????.
+????? ???? "??? - " ??? ?????? ?? ????? ?? ?? ?????.
+?? ??? normal60minDataList???. 120min?? ???.
+comment? ? ?????. 24hour / 2 hour ?? ????? ? ? ????.
+?? ????? ??? ??? ??? ??? ??????
+*listOfSections
+"use one instance
+mWeakFragment already created."
+activity ???? ??? ??? ??? ???? ??? ?? ??? ???? ?? ????
+onUpdateRequested/onUpdateFinished ?? token? ?? ??(??)? ? ?? ?? ?? code ?? token? default 0 ??? ??? ???. (?? ??)
+"saveSleepItem ??? UI?? ?? ?? ? ? ?? ?? ? ?? loadData ?? ??? ?? ??? ? ? ????.
+loadData(false) ?? ?? ?? onResume ?? ?? ?? ???... ?? ? ?????."
+?? ???? ?? ?? ????.
+??? ?? ???? ??? ????. ??? getConvertedMicroServiceId? ??? ? ???? ?? ?? ?? ???? ? ????.
+getMicroServiceCompatModel
+BackgroundPointerColor? GuideViewAttribute? ???? ? ?????.
+??? YAxisEntity? ??? GuideViewAttribute? ??? ?????.
+"ArrayList<TrendsYAxisEntity> ? ??? ArrayList<GuideViewAttriute> ? setAttribute?? ?? ?????. ArrayList<GuideViewAttriute>? TrendsChart? ????. 
+??? registerAttribute? ??? ??????.
+
+??? GuideView? ArrayList<GuideViewAttriute>? ?? GuideViewAttribute ??? ???? 
+multi axis??? 2?? GuideView? ??? ??? ? ??????"
+"GuideView ??? FrameLayout?? mGraphAreaBgView? background color? ????? ??? FrameLayout? ?????? 
+id_graph_are_bg ?? GuideView ??? setBackgroundColor? ?? ?? ??? TrendsChart? getGraphAreaBackground??? ?? mGuideView.getBackground();? return?? ? ? ????.
+
+?? ???? ?? ?? ??? ?????"
+Graph ? Drawable? ??? ?? ??? ??? ???? Coordinate system instance? ??? ???? TrendsChart? GuideView? coordinate system instance? set ??? ?? ?????.
+mAreaFillViewLists? attribute? ??? GuideView ??? ?? ?? ? ?? ? ????.
+mGuideLineViewLists ? GuideView? field? ?? ?? ? ?????.
+showGuideLine, setTransitionGoalLine ? ? ??? ???? ????.
+GuideView? ??
+"mYAxisLabelList??? isFixed? value(=data)? ???? GuideLineView?? color? line style? ???? ???. 
+
+GuideLineAttribute? ???? ArrayList<TrendsYAxisLabel> mYAxisLabelList ?? List<GuideLineAttribute>? ???? ??? ???? ?????. 
+
+??? Guide Line data?? Attribute? index? value? ?? ???? ? ? ???."
+"??? TrendsYAxisAreaFill ?? ???? field? range min/max? color???.
+
+range min/max? Data? Color? AreaFillAttribute? ???? field? ???? ? ? ????."
+"20, 21 ??? ???? ?? ? ????? Field ? ?? ?? ???? dependency? ???? ?? ?? ?? ? ????. 
+?? ??? AreaFillComponent? GoalLineComponent? ??? ???."
+"Y Axis entity ??? ????? ? Y Axis? ??? view? reset?? ??? ???? mLabelLineFrame? remove?? AreaFillFrame? remove ??? ???? 
+? method? ???? ?? ??? Weight Management Trends Chart ?? ??? ??? ??? ??? ????.
+
+method ? ??? reset? ?? GuideView ??? reset ?? ??? ???? GudieView ?? ??? View? ?? reset?? ??? ???? ?? ? ?????.
+
+TrendsYAxisEntity ? reset()? ??? ????... ??? ?????"
+"Visibility? ?? alpha? 0? ?? ???? ??? 
+??? alpha animation? start??? ????
+applyGuidelineChart method ?? ?? ?????."
+applyGuidelineChart ? ?????.
+"profile? ??? name??? ?? ?? ????? 
+??? BT? ??? ????. 
+Connection Type? BT? ?? Weight, BP? ?? 
+continua ? ??? true ???. ??? name filter? ?? ???? ?? ???. (Bt Name? AccessoryFilterDbHelper? init ?? ??)
+
+??? ?? ????? ??? ??? ?? ?? ? ? ????.
+0. alter table ? preference default value? 1? (true ??) 
+1. ble, bt name filter ?? background sync supported filed ????
+2. ??? weight? auto sync off ? ???, preference=0 ??"
+"preference? true? registered accessory info? ??? ???
+?? ?? ? ???."
+registered info?? background sync on ? ????? ??
+"sendStartScanMessage? stopService? ??? common ???? ??? ? ??? ????. 
+
+ex> 1.1??? ??? ???? background sync on ??? ??? ?? ?? => startScan
+2. ??? ?? ?? => ?? mIsScanning== true??, stopScan ?? StopService"
+?? ??? ??? ?? ?????
+? ??? ???? ???.
+Singleton ignored
+change has been applied with new patch
+?? start ?? ?? ?? ? ??? ?? ?? ????.
+??? += ? ?? ?? ??? ??~
+"numberOfGoodTimeKeepingDays = numberOfGoodTimeKeepingDays + **** --> numberOfGoodTimeKeepingDays += ****
+
+?? ????."
+??! ??~~~~
+?, test ?? ?? initial value??, ??? ???? ??? ??? ??? ? ???.
+test value? ???? ????????
+right .. will use feature manager later ..
+layout_toStartOf
+homeMeFragement.mMeBanner
+homeMeFragment.mMeBa
+homeMeFragement.mBnnercon
+homeMeFrgment.mMeBxxxxx
+ChangeBannerRunnable(this);
+"final WeakRef xxxx
+
+ChangeBannerRunnable(HomeMeFragment fragment){
+WeakRef xx = new xx
+}"
+?? ?? ?? ?? ????
+? data class? getIntake(), getBurned() ?? Floor? ???? ? ???? ?? ?? ????. intake, burned ? net ??? ??? ???? ????? ?? ?? ???? ??? ?? ????? ?? ?? ?? ? ?????.
+Hello this is a test comment
+Hello this is a test comment #2
+??? ?? ??? ?? append ?? ? ? ????. ??? ?? ? ???? index? ????? ? ???? ???, ?? eventDetail0 ??? ???? ???? ?????
+View.OnClickListener
+View.OnClickListenter
+mTrendsFragment.hasCheckedItem() ?? ?? ? ??? ????. ???? mHasCheckedItem ? ??? ?? ?? ???? ???.
+BarGraphAttribute ==> DataBarAttribute
+"By your comment, I fixed it as well as others also. 
+Thanks."
+"Of course, we will provide attributes for lines. 
+Actually, now, I have no ideal how to provide it. 
+Let's improve this class next week."
+"Sounds good. I didn't think of this.
+Thanks."
+I will consider this more.
+PeriodUtils? ?? ??
+Yes. I will add in later CL's.
+"locationData ? ?? null check? ?? ?? ? ????.
+??? null check ?? ???? locationData ?? ?? null check ???? SVACE ?? ? ? ??? (?? locationData.size())"
+..
+time?
+cookie ?? ??? ??? ?? ?? ????.
+??? ??? ?? ??? ?? ????? ??? ?????.
+signin? ?? ???? ?? ?? ??? ??? ????? ???? ?? ??? mIsCookieReady? false? ???? ? ? ????.
+?? ?? ? ?? ?? ? ????. ??? ?? ???
+s/clip/livewidget
+ditto
+nit: s/BROWSER_LOGE/LOGE
+s/liveclip/livewidget
+s/LIVE_CLIP/LIVE_WIDGET
+s/headet/headset
+Topic set to ha
+Topic ha removed
+Ok bhai, solve it in next patch
+Ok Bhai . Solve it in next patch
+Ok. Changing it.
+will work on it
+right
+fixing in next patch.
+Ok bhai. It will be fixed in next patch.
+//TODO in next patch
+will correct in next patch
+Thanks.Added
+Thanks.Updated
+Thanks. Added
+Thanks. I checked. Its working.
+Thanks. I changed the Business logic.
+Thanks. I moved this function to SAUtil
+Thanks. I added the full description.
+Thanks. I checked. It removed.
+thanks.changed
+Thanks..Fixed
+OK. Added
+Okay.
+Thanks. I used @note tag
+Thanks.mentioned
+Added. Thanks.
+Thanks. Fixed.
+Please fix
+Thanks , renamed and fixed.
+Done. Thanks.
+"Abandoned
+
+pb test"
+"Restored
+
+TEST"
+"Restored
+
+For PRoof Build Testing"
+Removed now.
+Removed.
+thanks .changed
+Thanks for your suggestions
+thanks, changed
+Thanks, renamed.
+This portion is deleted now.
+Renamed. Thanks.
+Please fix.
+Yes. Both key and ivValue should be checked here
+Yes. Both keyData and ivData should be checked here
+Yes. Both keyData and publicKeyStr should be checked here
+Yes. I checked for both SSO and non-SSO mode.
+approved this merge request
+merged
+closed
+CC @zubair46 @k.hassan
+Thanks Mr Yang,
+reopened
+@muntasir bhai, please check.
+assigned to @instance
+CC @minseo.park @zubair46 @jaewoon.yang
+@joonghwan @Gwiro @k.hassan @muntasir @zubair46 Please check the Changes
+CC @msoo.lee @Gwiro
+assigned to @minseo.park
+okay
+unapproved this merge request
+assigned to @boncheol
+assigned to @joonghwan
+assigned to @khan.sadee
+CC @zubair46
+assigned to @mijung4612.lee
+assigned to @kyle.leneau
+@instance Updated!
+"@kyle.leneau
+
+Can you review this Mr? VD Plugin team want to add their configuration. 
+Please review this. 
+
+@hyojae85.lee 
+
+if it's possible, use configuration. 
+and please careful not to overwrite development team. ( It can make affected with pi"
+"@kyle.leneau 
+Please review this MR. We need this MR to merge TV Plugin to master."
+"please review it
+@hyojae85.lee @mijung4612.lee @taitty.kim @chanho9.park @jinho123.yoo @dasol.kwon @jed.choi"
+@joonghwan @sy2004.kim @muntasir @k.hassan @sa.parvez Please review
+@khan.sadee , @shifatur.r
+@yhooon.park @yj14.lee @chanho9.park @hyojae85.lee @taitty.kim
+@yhooon.park @hyojae85.lee
+@yj14.lee
+@khan.sadee @shubhashis.k @muntasir @sa.parvez @k.hassan @joonghwan @sy2004.kim Please review this
+assigned to @muntasir
+"please review it.
+@mijung4612.lee @chanho9.park @yj14.lee @jinho123.yoo @jed.choi @dasol.kwon @chanho9.park"
+"please review it
+@dasol.kwon @mijung4612.lee @chanho9.park @jed.choi @hyojae85.lee @yj14.lee @jinho123.yoo"
+@jed.choi @taitty.kim @dasol.kwon
+@jinho123.yoo @mijung4612.lee @dasol.kwon @jed.choi @yj14.lee @taitty.kim @chanho9.park @yhooon.park
+please review it. @acejinu @ty @jinho123.yoo
+@taitty.kim @yhooon.park @yj14.lee @jinho123.yoo @chanho9.park
+@acejinu @yj14.lee @jinho123.yoo
+@Mohammod.Ullah @khan.sadee @k.hassan @joonghwan @Mijin @sy2004.kim Please review
+assigned to @nahidul.i
+@taitty.kim @yhooon.park @hyojae85.lee @chanho9.park @jinho123.yoo @yj14.lee
+"Updated
+
+![Simulator_Screen_Shot_-_iPhone_6_-_2019-01-09_at_15.55.19](/uploads/d495a9810afb4947db68a62b8a9f0010/Simulator_Screen_Shot_-_iPhone_6_-_2019-01-09_at_15.55.19.png)"
+"```swift
+if codable is ZB3DeviceCode {
+```
+
+ë¡œ ë³€ê²½ ê°€ëŠ¥í•´ë³´ìž…ë‹ˆë‹¤. let _ = ëŒ€ì‹ "
+@taitty.kim @jinho123.yoo @yhooon.park @yj14.lee @chanho9.park @hyojae85.lee
+yes
+@long.ld I'm checking Android's code, Wait a min.
+"@sy @k.hassan @instance @nazmul.i @shubhashis.k 
+Please review."
+@shifatur.r @Mohammod.Ullah @zubair46 @muntasir Please review
+@boncheol Nice job!
+assigned to @inhyuny
+@chanho9.park @mijung4612.lee @yhooon.park @jinho123.yoo @dasol.kwon @taitty.kim @jed.choi
+@chanho9.park @mijung4612.lee @yhooon.park @jinho123.yoo @taitty.kim @dasol.kwon @jed.choi
+@dasol.kwon @jed.choi @taitty.kim @jinho123.yoo @yhooon.park
+@dasol.kwon @taitty.kim @animesh.a @mijung4612.lee @chanho9.park @yhooon.park @jed.choi @yj14.lee @jinho123.yoo
+@jed.choi @dasol.kwon @taitty.kim @jinho123.yoo @yj14.lee @yhooon.park @chanho9.park
+Really Good!!!! :thumbsup:
+@jed.choi @dasol.kwon @yhooon.park @chanho9.park @jinho123.yoo @yj14.lee
+@jed.choi @taitty.kim @dasol.kwon @jinho123.yoo @yhooon.park @yj14.lee @chanho9.park
+@joonghwan , @Gwiro , @zubair46 please review.
+@joonghwan @k.hassan @muntasir Please review
+@joonghwan @sy2004.kim @k.hassan @muntasir Please review
+Correct! :)
+Dev team changes :(
+Dang. I'll get those reverted.
+@khan.sadee  @shifatur.r Please check.
+CC @nahidul.i
+Please review changes. @taitty.kim @Mijin @jed.choi @yj14.lee @chanho9.park @yhooon.park @dasol.kwon
+@yhooon.park
+"please review it
+
+@jed.choi @taitty.kim @chanho9.park @jinho123.yoo @yj14.lee @dasol.kwon @mijung4612.lee"
+@jinho123.yoo
+@taitty.kim @chanho9.park @yhooon.park @jinho123.yoo @jed.choi @dasol.kwon
+@jinho123.yoo @mijung4612.lee @chanho9.park @yhooon.park @taitty.kim @dasol.kwon @jed.choi
+@k.hassan @joonghwan @sy2004.kim Please review
+@k.hassan @muntasir @sa.parvez @shubhashis.k please review.
+@k.hassan @shubhashis.k @atikul.gazi @nazmul.i @Mohammod.Ullah please review.
+Already did! :)
+. ?
+@k.hassan @shubhashis.k @nazmul.i please review.
+@taitty.kim @chanho9.park @yhooon.park @yj14.lee @jed.choi @dasol.kwon @mijung4612.lee
+@taitty.kim @chanho9.park @jinho123.yoo @yhooon.park @yj14.lee
+@taitty.kim @chanho9.park @yhooon.park @jinho123.yoo @yj14.lee
+CC @atikul.gazi
+@taitty.kim @jinho123.yoo @yj14.lee @yhooon.park @chanho9.park
+nvm then
+CC @zubair46 @atikul.gazi
+@taitty.kim @chanho9.park @yhooon.park @yj14.lee @jinho123.yoo
+@taitty.kim @jinho123.yoo @chanho9.park @yhooon.park @jed.choi @dasol.kwon @yj14.lee
+@taitty.kim @chanho9.park @yhooon.park @dasol.kwon @jed.choi @yj14.lee @jinho123.yoo
+CC @nahidul.i @shubhashis.k
+It's ok, I will modify it
+"@minseo.park @joonghwan @sy2004.kim @k.hassan Please review after the tags are removed.
+
+@Mohammod.Ullah @shifatur.r Please follow up."
+assigned to @zubair46
+cc @sa.parvez
+assigned to @br.fransioli
+same above comment
+:thumbsup:
+Yup
+"@kaganriedel ![Screen_Shot_2019-01-22_at_1.33.44_PM](/uploads/04f7f677fa6f2d18990f8d8f846f0dbf/Screen_Shot_2019-01-22_at_1.33.44_PM.png)
+
+Thank you for tackling this.  We all owe you a bunch of drinks for doing it!  :100:"
+Same here, as soon as you update I'll :thumbsup:
+@mayholm  approve and merge the mr if it works
+[weak self] in
+[weak self] _ in
+@mijung4612.lee @chanho9.park @yhooon.park @jinho123.yoo @dasol.kwon @taitty.kim @jed.choi
+@mijung4612.lee @chanho9.park @yhooon.park @jinho123.yoo @jed.choi @taitty.kim @dasol.kwon
+@mijung4612.lee @chanho9.park @yhooon.park @jinho123.yoo @taitty.kim @jed.choi
+"@muntasir @k.hassan @minseo.park @joonghwan @sy2004.kim Please review after the tags are cleared
+
+@shifatur.r Please let me know your opinion"
+@yj14.lee @yhooon.park @dasol.kwon @jed.choi @taitty.kim @jinho123.yoo
+@shubhashis.k @nahidul.i Can you review `VisualContentCardInteractor` please ?
+@shubhashis.k @nazmul.i Please check.
+@shubhashis.k Number of product will increase, so let's avoid replacing all product's info.
+@sy True, fetching brand when needed is efficient, but, there are several modules that may use `product.brand`. Thus, I believe this is the minimal number of changes that should keep consistency without sacrificing too much of performance.
+CC @shubhashis.k @nahidul.i
+@taitty.kim @mijung4612.lee @jed.choi @dasol.kwon @yhooon.park @chanho9.park @jinho123.yoo
+@taitty.kim @chanho9.park @yj14.lee @dasol.kwon @yhooon.park @jed.choi @jinho123.yoo
+@taitty.kim @dasol.kwon @yhooon.park @jinho123.yoo @yj14.lee @chanho9.park @mijung4612.lee
+"please review it
+@taitty.kim  @jed.choi  @mijung4612.lee  @dasol.kwon @yj14.lee @jinho123.yoo"
+@taitty.kim @dasol.kwon @jed.choi @yhooon.park @yj14.lee
+@taitty.kim @jed.choi @yj14.lee @yhooon.park @dasol.kwon
+@mijung4612.lee @yhooon.park @jed.choi @taitty.kim @yj14.lee
+@taitty.kim @dasol.kwon @yhooon.park @jinho123.yoo @yj14.lee @mijung4612.lee @chanho9.park
+@taitty.kim @jed.choi @mijung4612.lee @yj14.lee @chanho9.park @yhooon.park @dasol.kwon
+@mijung4612.lee @yj14.lee @taitty.kim @yhooon.park @jinho123.yoo @jed.choi
+@yhooon.park @chanho9.park @mijung4612.lee @jinho123.yoo @dasol.kwon @taitty.kim @jed.choi
+@taitty.kim @jed.choi @dasol.kwon @jinho123.yoo @yhooon.park @yj14.lee
+@taitty.kim @jed.choi @jinho123.yoo @yhooon.park @mijung4612.lee
+@taitty.kim @jed.choi @jinho123.yoo @yhooon.park @mijung4612.lee @chanho9.park
+@taitty.kim @jed.choi @yhooon.park @jinho123.yoo @mijung4612.lee @chanho9.park
+@taitty.kim @jed.choi @yhooon.park @yj14.lee @jinho123.yoo @chanho9.park @mijung4612.lee
+"please review it
+@taitty.kim @yj14.lee @dasol.kwon @mijung4612.lee @jinho123.yoo @chanho9.park @jed.choi"
+@taitty.kim @jinho123.yoo @chanho9.park @mijung4612.lee @dasol.kwon @yhooon.park @jed.choi
+CC @Mijin
+CC @Gwiro
+CC @khan.sadee @instance please review this MR
+CC @zubair46 @k.hassan @khan.sadee
+@taitty.kim @jed.choi @yhooon.park @yj14.lee @jinho123.yoo @mijung4612.lee @chanho9.park
+@taitty.kim @mijung4612.lee @dasol.kwon @jinho123.yoo @yhooon.park
+@taitty.kim @mijung4612.lee @dasol.kwon @yhooon.park @jinho123.yoo @yj14.lee @chanho9.park
+@taitty.kim @mijung4612.lee @chanho9.park @yhooon.park @jed.choi  @yj14.lee @dasol.kwon
+@yhooon.park @jinho123.yoo @yj14.lee @jed.choi @dasol.kwon @taitty.kim
+@taitty.kim @jed.choi @mijung4612.lee @yhooon.park @yj14.lee @jinho123.yoo @animesh.a 
+@yj14.lee @taitty.kim @yhooon.park @mijung4612.lee @jed.choi @jinho123.yoo
+"please review it
+
+@yj14.lee  @jinho123.yoo  @taitty.kim  @dasol.kwon @mijung4612.lee @jed.choi @taitty.kim"
+@taitty.kim @mijung4612.lee @jed.choi @yj14.lee @chanho9.park @yhooon.park @dasol.kwon
+@lyngbym, updated.
+@nickpappas looks like you missed to commit ` Carthage/Build/.smartthings-ios-support.version` file
+@taitty.kim @yhooon.park @jed.choi @jinho123.yoo @yj14.lee @mijung4612.lee
+@taitty.kim @mijung4612.lee @yhooon.park @dasol.kwon  @chanho9.park @yj14.lee @animesh.a @jinho123.yoo @jed.choi
+@taitty.kim @yj14.lee @chanho9.park @yhooon.park @jinho123.yoo
+"@tjohnson 
+
+in latestcode, it's not used DeviceDataSource. (LocationData & RoomData structures should be removed.)
+Related with adding place in HubV2, I changed some code. 
+Please review this."
+@taitty.kim @jed.choi @yhooon.park @yj14.lee @jinho123.yoo
+"please review it 
+@jinho123.yoo  @taitty.kim  @dasol.kwon @jed.choi @yj14.lee"
+@tjohnson This section is under debug drawer, only developers will access. I don't think any other implementations under debug drawer use any localization till now.
+"@tushar.das I realized that WRAddingSubDevice.storyboard and PRAddingSubDevice.storyboard are very different. So I tried to synchronize the two files. We plan to combine them into one file later.
+Plase check my MR and close this MR.
+
+https://git.vandev"
+@yhooon.park @jinho123.yoo @yj14.lee @mijung4612.lee @chanho9.park
+@yj14.lee @jed.choi @chanho9.park @yhooon.park @dasol.kwon @mijung4612.lee @jinho123.yoo
+@zubair46 , please take a look.
+@zubair46 @joonghwan @k.hassan Please review
+@zubair46 @Mijin  please review this
+assigned to @shifatur.r
+@taitty.kim @yhooon.park @jinho123.yoo @jed.choi @yj14.lee
+@taitty.kim @jinho123.yoo @mijung4612.lee @chanho9.park @yhooon.park @dasol.kwon @jed.choi
+"please review it
+
+@taitty.kim @jed.choi @dasol.kwon @yj14.lee @jinho123.yoo @amit.kumar12 "
+cc @k.hassan @sa.parvez @shubhashis.k
+changes done
+"@nazmul.i @instance @k.hassan 
+Requesting to review"
+CC @sy @shubhashis.k @nahidul.i
+assigned to @shubhashis.k
+"@shubhashis.k @sy please review the below sample codes
+
+```swift
+                        var alphaProducts: [CatalogProduct] = []
+                        var filteredProducts: [String: CatalogProduct] = [:]
+
+                        productData.forEa"
+@sy @joonghwan , I've updated the iteration here - https://git.vandevlab.com/iot-client/smartthings-ios/merge_requests/13888/diffs?commit_id=1e01ec48fe0263fcd1b1ae44b3e4545828b3a669. Please check.
+assigned to @k.hassan
+@zubair46 @zubair46 Please review Dashboard, Drawer related modules
+@zubair46 @shubhashis.k  Please review Dashboard & Drawer related modules
+@eunyong @jaewoon.yang @jm4.lee @minseo.park
+"@Jinuk @instance @msoo.lee 
+
+Please review this."
+@taitty.kim @jed.choi @yhooon.park @jinho123.yoo @yj14.lee @mijung4612.lee @chanho9.park
+@jed.choi @taitty.kim @yhooon.park @jinho123.yoo @yj14.lee @chanho9.park @mijung4612.lee
+Thank you for check! @hee\_jun.lee ,@long.ld
+assigned to @bob.pappas
+please.....
+@zubair46 review please.
+"please review it
+
+@yj14.lee @jinho123.yoo  @jed.choi @taitty.kim @chanho9.park @mijung4612.lee @dasol.kwon"
+CC @instance @Mijin
+I have updated. Thanks ^^
+cc @muntasir
+cc @sa.parvez @shubhashis.k
+cc @shubhashis.k
+CC @zubair46 @nahidul.i @shubhashis.k
+CC @acejinu @ks7.jeong
+cc @k.hassan @muntasir @sa.parvez @shubhashis.k
+CC @boncheol
+assigned to @atikul.gazi
+@shifatur.r please review the MR
+removed assignee
+assigned to @sy
+Thanks for pointing it out. Changed here - https://git.vandevlab.com/iot-client/smartthings-ios/merge_requests/14456/diffs?commit_id=c594bcaca6b2778cd3aa6dd2453a5f43a3db8f1a
+CC @zubair46 @khan.sadee
+same here
+assigned to @Ruman.Islam
+assigned to @jay.vachhani
+cc @instance @minseo.park
+cc @muntasir @sa.parvez @shubhashis.k @Ruman.Islam
+Thanks
+OK, I'll try it.
+"@Junhyung  Please check the changes. 
+CC: @k.hassan, @muntasir, @Junayed"
+assigned to @Junhyung
+assigned to @sy2004.kim
+assigned to @sandeep
+CC: @Junhyung @k.hassan @muntasir
+Thanks!
+moved.
+canceled the automatic merge
+@sy please review.
+@nickpappas :clap\_tone2:
+Thank you! :)
+Thank you!
+assigned to @mehedi.hasan
+Check https://git.vandevlab.com/iot-client/smartthings-ios/merge_requests/15472#note_655405
+yep :smile:
+will update in next DID CL
+will update it.
+comment added in new patch
+Ok removing in my next patch.
+ok I am changing variable name
+Unnecessary property removed.
